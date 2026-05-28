@@ -142,22 +142,6 @@ AE2 Dark Mode [AE2-Dark-Mode](https://github.com/Ranzuu/AE2-Dark-Mode)
 ### GT5U Materials
   <img src="https://raw.githubusercontent.com/ModernityGTNH/Modernity-GTNH/main/Screenshots/Materials.png" />
 
-## Special Thanks
-
-### Auynonymous
-
-### Neura June and Neru June :3
-
-MCTBL
-
-黑崎
-
-Tree_er
-
-茶柒
-
-DarkScorpyon
-
 ## Join us
 
 [![QQ Group](https://img.shields.io/badge/QQ-961382654-12B7F5?logo=qq&logoColor=white)](https://qm.qq.com/q/IQTB6JHkoC)
@@ -165,6 +149,14 @@ DarkScorpyon
 [![Join our Discord](https://img.shields.io/discord/1406476073096450128?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/cZTMm6Rzvx)
 
 ---
+
+### Developers
+
+Thanks to the following developers for their contributions to Modernity-GTNH:
+
+<a href="https://github.com/ModernityGTNH/Modernity-GTNH/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ModernityGTNH/Modernity-GTNH&max=1000" alt="contributors" />
+</a>
 
 ### Additional Credits
 
